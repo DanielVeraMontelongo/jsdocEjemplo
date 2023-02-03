@@ -1,0 +1,19 @@
+{
+  "name": "proyectoejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clean-jsdoc-theme": "^4.2.3",
+    "ink-docstrap": "^0.5.4",
+    "jsdoc": "^4.0.0",
+    "taffydb": "^2.7.3"
+  }
+}
